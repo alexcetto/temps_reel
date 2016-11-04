@@ -1,3 +1,6 @@
 *.ko
 *.o
 *.cmd
+
+# Ada Library Information
+*.ali
